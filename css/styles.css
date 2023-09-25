@@ -24,8 +24,8 @@ body {
   color: #2e2f42;
 }
 
-.menu-link {
-  hover: color#404bbf;
+.menu-link :hover {
+color#404bbf;
 }
 
 .address {
