@@ -50,3 +50,16 @@ body {
   background-color: #404bbf;
   cursor: pointer;
 }
+
+.propeties {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.strategy {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
