@@ -23,7 +23,8 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.studio :hover {
+.studio:hover,
+.studio:focus {
   color: #404bbf;
 }
 
