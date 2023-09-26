@@ -28,6 +28,22 @@ body {
   color: #404bbf;
 }
 
+.address {
+  font-style: normal;
+}
+.mailtoo {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.mailtoo:hover,
+.mailtoo:focus {
+  color: #404bbf;
+}
+
+.call {
+}
+
 .order-service {
   background-color: #2e2f42;
 }
