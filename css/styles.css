@@ -62,6 +62,10 @@ body {
   color: #2e2f42;
 }
 
+.list {
+  font-weight: 500;
+}
+
 .features {
   line-height: 1.5;
   letter-spacing: 0.02em;
