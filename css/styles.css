@@ -49,6 +49,10 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
+.button-order-service:hover,
+.button-order-service:focus {
+  background-color: #404bbf;
+}
 
 .propeties {
   font-weight: 500;
