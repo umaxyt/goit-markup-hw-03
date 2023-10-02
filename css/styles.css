@@ -16,7 +16,9 @@ body {
 .logopart {
   color: #2e2f42;
 }
-
+.block {
+  display: block;
+}
 .studio {
   font-weight: 500;
   line-height: 1.5;
