@@ -23,11 +23,18 @@ body {
 
 .header-container {
   display: flex;
+  width: 1158px;
   align-items: center;
-  gap: 90px;
+  gap: 40px;
   margin: 0;
   padding: 0 15px 0 15px;
 }
+
+.header-navigation {
+  display: flex;
+  align-items: center;
+}
+
 .block {
   display: block;
 }
