@@ -24,13 +24,15 @@ body {
 .header-container {
   display: flex;
   width: 1158px;
-  align-items: center;
-  gap: 40px;
-  margin: 0;
+  margin: 0 auto;
   padding: 0 15px 0 15px;
 }
 
 .header-navigation {
+  display: flex;
+  align-items: center;
+}
+.header-nav {
   display: flex;
   align-items: center;
 }
