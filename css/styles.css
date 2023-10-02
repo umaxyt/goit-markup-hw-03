@@ -16,6 +16,18 @@ body {
 .logopart {
   color: #2e2f42;
 }
+/** ================HEADER==================== */
+.header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+  margin: 0;
+  padding: 0 15px 0 15px;
+}
 .block {
   display: block;
 }
