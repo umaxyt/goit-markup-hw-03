@@ -129,6 +129,12 @@ body {
 
 .list {
   font-weight: 500;
+  display: flex;
+  gap: 24px;
+  margin-right: 24px;
+}
+.technologies {
+  margin-right: 0;
 }
 
 .features {
