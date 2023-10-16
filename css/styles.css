@@ -159,6 +159,7 @@ body {
 
 .our-team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .our-team-head {
   font-size: 36px;
@@ -167,6 +168,11 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+.our-team-list {
+  display: flex;
+  gap: 24px;
 }
 .our-team-item {
   background-color: #ffffff;
