@@ -204,6 +204,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.product-designer {
+  padding: 32px 0;
+}
+
 .portfolio {
   font-size: 36px;
   line-height: 1.11;
