@@ -241,6 +241,9 @@ body {
 .list-appp {
   width: calc((100%-48px) / 3);
 }
+.grid {
+  width: calc((100%-48px) / 3);
+}
 
 .portfolio-title {
   font-weight: 500;
