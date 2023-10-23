@@ -221,7 +221,6 @@ body {
 
 .section {
   padding: 120px 0 120px 0;
-  width: calc((100%-48px) / 3);
 }
 
 .portfolio {
@@ -239,7 +238,7 @@ body {
   column-gap: 24px;
   row-gap: 48px;
 }
-.list {
+.list-app {
   width: calc((100%-48px) / 3);
 }
 
