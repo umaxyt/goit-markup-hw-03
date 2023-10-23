@@ -142,6 +142,7 @@ body {
   display: flex;
   gap: 24px;
   margin-right: 24px;
+  width: calc((100% - 72px) / 4);
 }
 .technologies {
   margin-right: 0;
