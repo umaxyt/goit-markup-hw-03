@@ -221,6 +221,7 @@ body {
 
 .section {
   padding: 120px 0 120px 0;
+  width: calc((100%-48px) / 3);
 }
 
 .portfolio {
