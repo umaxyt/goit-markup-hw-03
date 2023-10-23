@@ -159,7 +159,7 @@ body {
 
 .our-team {
   background-color: #f4f4fd;
-  padding: 120px 0;
+  padding: 120px 0 120px 0;
 }
 .our-team-head {
   font-size: 36px;
@@ -194,10 +194,6 @@ body {
   text-align: center;
 }
 
-.mark-guerrero {
-  width: calc((100%-72px) / 4);
-  border-radius: 0px 0px 4px 4px;
-}
 .tom-ford {
   text-align: center;
   margin-bottom: 8px;
