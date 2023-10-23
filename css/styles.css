@@ -51,13 +51,12 @@ body {
 .header-nav {
   display: flex;
   align-items: center;
-  display: flex;
-  gap: 40px;
 }
 
 .menu {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 
 .block {
