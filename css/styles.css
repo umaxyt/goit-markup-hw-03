@@ -238,7 +238,7 @@ body {
   column-gap: 24px;
   row-gap: 48px;
 }
-.list {
+.list-app {
   width: calc((100%-48px) / 3);
 }
 
