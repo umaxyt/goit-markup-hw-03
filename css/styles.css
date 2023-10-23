@@ -149,8 +149,6 @@ body {
 
 .features {
   width: calc((100% - 72px) / 4);
-  line-height: 1.5;
-  letter-spacing: 0.02em;
 }
 
 .featurees-head {
