@@ -57,9 +57,7 @@ body {
   display: flex;
   gap: 40px;
 }
-.menu-list {
-  padding: 24px 0;
-}
+
 .block {
   display: block;
 }
@@ -76,6 +74,10 @@ body {
 
 .address {
   font-style: normal;
+}
+.address-list {
+  display: flex;
+  gap: 40px;
 }
 .mailtoo {
   line-height: 1.5;
