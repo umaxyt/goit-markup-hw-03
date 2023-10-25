@@ -286,7 +286,7 @@ body {
   row-gap: 48px;
 }
 .list-app {
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-title {
